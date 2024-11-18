@@ -1,0 +1,86 @@
+body{
+  color:white;
+  background-color: 	#00008B;
+}
+
+.image-container {
+  position: relative;
+}
+
+
+.image-text {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+  
+
+
+
+
+  
+  
+
+img{
+  width: 600px;
+  height: 300px;
+  
+}
+
+.center {
+  text-align: center;
+}
+
+h2 img{
+  width: 450px;
+  height: 450px;
+  border: 5px solid white;
+  
+}
+
+h3 img{
+  width: 450px;
+  height: 450px;
+  border: 5px solid white;
+}
+
+h5 img{
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  box-shadow: green;
+}
+
+.container{
+  padding: 0px 50px;
+
+}
+
+a{
+  width: 30px;
+  height: 30px;
+  color: white;
+  text-decoration: none;
+  
+  
+}
+
+footer{
+height: 20px;
+
+}
+
+
+
+
+
+
+
+
